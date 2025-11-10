@@ -11,15 +11,15 @@
 
 ## 【GitHub 下载与依赖】
 ### 1. 工具下载
-- 直接下载压缩包：[ACE_GoSleep.7z](https://github.com/你的用户名/项目仓库名/releases)（替换为实际仓库地址）
-- 或前往 GitHub Releases 页面下载最新版本：[Releases](https://github.com/你的用户名/项目仓库名/releases)（替换为实际 Releases 地址）
+- 直接下载压缩包：[ACE_GoSleep.7z]
+- 或前往 GitHub Releases 页面下载最新版本：[Releases]https://github.com/future1114/ACE-GoSleep/releases/tag/Init)
 
 ### 2. 运行依赖
 本项目基于 **.NET 9.0** 开发，运行前需确保系统已安装以下运行时：
 - 依赖包名称：`aspnetcore-runtime-9.0.10-win-x64.zip`
 - 下载方式：
   1. 官网下载（推荐）：[.NET 9.0 运行时官网](https://dotnet.microsoft.com/zh-cn/download/dotnet/9.0)
-  2. 项目提供的备用包：可在 GitHub 仓库的 `deps` 目录下下载（若已上传）
+  2. 项目提供的备用包：可直接下载 `aspnetcore-runtime-9.0.10-win-x64.zip`
 
 ---
 
